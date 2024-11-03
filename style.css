@@ -177,7 +177,7 @@ h1{
 	font-size: 30px;
 }
 
-/**/
+/*CARD*/
 
 .body-containter{
 	margin: 0px;
@@ -300,13 +300,10 @@ section {
 }
 
 
-/* Footer left */
-
 .footer-distributed .footer-left{
 	float: left;
 }
 
-/* The company logo */
 
 .footer-distributed h3{
 	color:  #ffffff;
@@ -317,8 +314,6 @@ section {
 .footer-distributed h3 span{
 	color:  #5383d3;
 }
-
-/* Footer links */
 
 .footer-distributed .footer-links{
 	color:  #ffffff;
@@ -340,8 +335,6 @@ section {
 	margin: 0;
 }
 
-/* Footer social icons */
-
 .footer-distributed .footer-icons{
 	margin-top: 40px;
 }
@@ -362,8 +355,6 @@ section {
 	margin-bottom: 5px;
 }
 
-/* Footer Right */
-
 .footer-distributed .footer-right{
 	float: right;
 }
@@ -374,8 +365,6 @@ section {
 	margin: 15px 42px 0 0;
 	color: #ffffff;
 }
-
-/* The contact form */
 
 .footer-distributed form{
 	display: inline-block;
@@ -433,8 +422,6 @@ section {
 	font-weight: bold;
 	float: right;
 }
-
-/* If you don't want the footer to be responsive, remove these media queries */
 
 @media (max-width: 1000px) {
 
